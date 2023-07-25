@@ -1,0 +1,4 @@
+"""参数化数据"""
+app_article001:
+  click_text: "python"
+  title: "Python"
